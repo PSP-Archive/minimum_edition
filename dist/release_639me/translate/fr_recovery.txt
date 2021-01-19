@@ -1,0 +1,91 @@
+Inactif
+Actif
+Defaut
+Japon
+USA
+Europe
+Coree
+Angleterre
+Mexique
+Australie/Nouvelle Zeland
+Est
+Taiwan
+Russie
+Chine
+Debug Type I
+Debug Type II
+Normal -UMD requis-
+OE isofs herite -SANS UMD-
+M33 driver -SANS UMD-
+Sony NP9660 -SANS UMD-
+ME driver -SANS UMD-
+Activer USB
+Configuration
+Lancer le programme depuis
+Avance
+Cadence CPU
+Plugins
+Hacks du registre
+Configuration avancee
+Configuration de la batterie
+Formatter flash1/RAZ parametres
+Formatter flash2
+Numero de serie batterie
+Pandoriser batterie
+Faire une batterie autoboot
+Normaliser batterie
+Quitter
+Revenir
+USB actif
+USB inactif
+Formattage
+Etat
+Executer OPNSSMP
+Plugins XMB
+Plugins JEUX
+Plugins POPS
+Shunt du logo Sony
+Shunt du Gameboot
+Cacher les icones corrompues
+Protect Flash in Usb Mount
+Autobooter
+Driver ISO [Mode UMD]
+Cacher adresse MAC
+Fausser la region
+Utiliser le menu VSH
+Peripherique USB du XMB
+Charger la batterie par USB
+Couleurs du XMB SLIM pour le XMB des FAT
+Utiliser la mise a jour ME
+Cacher PIC0.PNG et PIC1.PNG
+Utiliser version.txt
+Booster la Memory Stick
+Disque UMD
+Memory Stick
+Menu XMB
+UMD/ISO
+Assignation des touches X/O
+Activer le codec WMA
+Activer Flash Player 
+O = valider
+X = valider
+WMA est deja actif.
+Activation de WMA...
+Flash player est deja actif.
+Activation de Flash Player...
+Sortie du recovery
+Menu principal
+Noyau 1.50
+Noyau 6.XX
+TOUJOURS
+JAMAIS
+Inconnu
+Attendez SVP
+Fait
+Echec
+Sauvegarde
+Activer le patch UMD Video XMB
+Executer le PBOOT des ISOs
+Restauration
+Sauvegarder la configuration Ethernet
+Restaurer la configuration Ethernet

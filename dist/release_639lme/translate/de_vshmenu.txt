@@ -1,0 +1,29 @@
+Deaktiviert
+Aktiviert
+Standard
+Kein
+ZurÅck
+UMD Disk
+Memory Stick
+Interner Speicher
+Normal
+OE isofs
+M33 Treiber
+Sony NP9660
+ME Treiber
+XMB  Taktung    
+Game Taktung    
+USB Verbindung  
+UMD ISO Treiber 
+Video UMD Mount 
+VSH Menu Farbe  
+XMB  Plugins    
+GAME Plugins    
+POPS Plugins    
+Plugin Manager
+Recovery Menu 
+PSP Ausschalten
+Stand-By Modus
+PSP Neustarten
+VSH Resetten
+Beenden

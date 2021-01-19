@@ -1,0 +1,29 @@
+Inactif
+Actif
+Defaut
+Aucun
+Revenir
+Disque UMD
+Memory Stick
+Stockage cache
+Normal
+OE isofs
+M33 Driver
+Sony NP9660
+ME Driver
+Frequence CPU XMB
+Fréquence CPU Jeux
+Peripherique USB
+Mode ISO UMD  
+Montage ISO video
+Couleur de fond     
+Plugins XMB 
+Plugins Jeux
+Plugins POPS
+Gestionnaire de plugins
+Entrer dans le Recovery
+Eteindre la PSP
+Mise en veille PSP
+Reset de la PSP
+Reset du XMB
+Sortir

@@ -1,0 +1,32 @@
+TARGET = kxploit_tool
+OBJS = main.o imports.o
+
+ifndef $(TARGET_FW)
+TARGET_FW = 150
+endif
+
+PSP_FW_VERSION=$(TARGET_FW)
+
+
+LIBS = -lpspkubridge -lpspsystemctrl_user
+LIBDIR = ../lib
+CFLAGS = -Os -G0 -Wall -DLITE=$(LITE)
+CXXFLAGS = $(CFLAGS)
+ASFLAGS = $(CFLAGS)
+LDFLAGS =
+ENCRYPT=1
+
+BUILD_PRX = 1
+
+EXTRA_TARGETS = EBOOT.PBP
+
+ifeq ($(LITE),0)
+PSP_EBOOT_TITLE += LME Installer for $(TARGET_FW)
+PSP_EBOOT_ICON = ../light_installer/ICON0.PNG
+else
+PSP_EBOOT_TITLE += Update Launcher for $(TARGET_FW)
+PSP_EBOOT_ICON = ../installer/unpacker/ICON0.PNG
+endif
+
+PSPSDK=$(shell psp-config --pspsdk-path)
+include $(PSPSDK)/lib/build_encrypt.mak

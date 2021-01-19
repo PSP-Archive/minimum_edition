@@ -1,0 +1,94 @@
+Deaktiviert
+Aktiviert
+Standard
+Japan
+Amerika
+Europa
+Korea
+Grossbritannien
+Mexiko
+Australien
+Hongkong
+Taiwan
+Russland
+China
+Fehlerbehebungsmodus 1
+Fehlerbehebungsmodus 2
+Normal -UMD notwendig-
+OE isofs legacy
+M33 Treiber
+Sony NP9660
+ME Treiber
+USB Verbindung
+Einstellungen
+Programm starten
+Erweitert
+CPU-Geschwindigkeit
+Plugins
+Interne Hacks
+Erweiterte Einstellungen
+Batterie Einstellungen
+Formatiere flash1 und setze Einstellungen ZurÅck
+Formatiere flash2 und setze Einstellungen ZurÅck
+Batterie Serial
+Pandora Akku erstellen
+AutoBoot Akku erstellen
+Normalen Akku erstellen
+Beenden
+ZurÅck
+USB Verbunden
+USB Getrennt
+Formatierung
+Momentan
+OPNSSMP.BIN ausfÅhren
+XMB  Plugins
+GAME Plugins
+POPS Plugins
+PSP Start-Logo Åberspringen
+Gameboot Åberspringen
+Verstecke defekte Daten
+SchÅtze Flash in USB
+Autostart
+UMD-Modus
+Mac Addresse verstecken
+FÑlsche Regionscode
+Vsh-MenÅ benutzen
+XMB USB-Modus
+Akku Aufladung durch USB
+Slim Farben im XMB
+ME Netzwerk-Update benutzen
+Verstecke PIC0 und PIC1
+Nutze version.txt
+Beschleunige MS-Zugriff
+UMD Disk
+Memory Stick
+CPU in XMB
+CPU in UMD/ISO
+Tastenbelegung einstellen
+WMA aktivieren
+Flash Player aktivieren
+O ist BestÑtigen
+X ist BestÑtigen
+WMA wurde bereits aktiviert.
+Aktiviere WMA...
+Flash Player wurde bereits aktiviert.
+Aktiviere Flash Player...
+ME Recovery MenÅ wird beendet...
+HauptmenÅ
+Neuladen
+Schreibe
+Immer
+Nie
+Unbekannt
+Bitte warten
+Erledigt
+Fehlgeschlagen
+Speichere
+Benutze UmdVideo Patch im XMB
+PBOOT.PBP ausfÅhren
+Bitte Warten
+Netzwerk-Einstellungen sichern
+Netzwerk-Einstellungen wiederherstellen
+Extra Speicher
+Sonstiges
+Recovery MenÅ Farbe

@@ -1,0 +1,4 @@
+Thanks to liquidzigong for 6.39 kxploit POC
+Thanks to some1&Davee&Proxima&Zecoxao for kxploit
+Thanks to bbtgp for his PrxEncrypter
+Thanks to Draan for his kirk-engine code

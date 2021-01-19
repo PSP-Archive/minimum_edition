@@ -1,0 +1,91 @@
+Disattivato
+Attivato
+Default
+Giappone
+America
+Europa
+Corea
+Regno Unito
+Messico
+Australia/Nuova Zelanda
+Medio oriente
+Taiwan
+Russia
+Cina
+Debug Tipo I
+Debug Tipo II
+Normale -UMD richiesto-
+OE isofs -NO UMD-
+M33 driver -NO UMD-
+Sony NP9660 -NO UMD-
+ME driver -NO UMD-
+Connetti USB
+Configurazione
+Avvia programma in
+Avanzate
+Velocita' CPU
+Plugin
+Hack del Registro
+Configurazione avanzata
+Configurazione della batteria
+Formatta flash1 e ripristina impostazioni
+Formatta flash2
+Seriale Batteria
+Crea Batteria Jigkick
+Crea Batteria AutoBoot
+Crea Batteria Normale
+Esci
+Indietro
+USB abilitato
+USB disabilitato
+Formattando
+Adesso
+Esegui OPNSSMP
+Plugin XMB
+Plugin GAME
+Plugin POPS
+Salta logo Sony
+Salta Gameboot
+Nascondi icone dannegiate
+Proteggi flash montata in Usb
+Avvio automatico
+Modalita' UMD
+Nascondi Indirizzo Mac
+Cambia Regione
+Usa VSHmenu
+Dispositivo USB in XMB
+Carica tramite USB
+Usa Colori della Slim
+Aggiornamento Internet ME
+Nascondi PIC0.PNG e PIC1.PNG
+Usa version.txt
+Velocizza accesso alla MS
+Disco UMD
+Memory Stick
+Velocita' in XMB
+Velocita' in UMD/ISO
+Assegnazione pulsanti
+Attiva WMA
+Attiva Flash Player
+O e' invio
+X e' invio
+WMA e' gia' attivato.
+Attivando WMA
+Flash player e' gia' attivato.
+Attivando Flash Player
+Uscendo dalla Recovery - Traduzione di Rapper_skull
+Menu Principale
+Ricaricando
+Scrivendo
+SEMPRE
+MAI
+Sconosciuto
+Attendere prego
+Fatto
+Fallito
+Salvataggio in corso
+Attiva patch per videoUMD ISO
+Esegui PBOOT.PBP nelle ISO
+Impostazioni
+Backup Impostazioni di Rete
+Ripristino Impostazioni di Rete

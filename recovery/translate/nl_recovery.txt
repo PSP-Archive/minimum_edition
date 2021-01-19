@@ -1,0 +1,88 @@
+Uit
+Aan
+Standaard
+Japan
+Amerika
+Europa
+Korea
+Groot Brittannië
+Mexico
+Australië / Nieuw Zeeland
+Oost
+Taiwan
+Rusland
+China
+Debug Type I
+Debug Type II
+Normaal -UMD Benodigd-
+OE isofs -GEEN UMD-
+M33 driver -GEEN UMD-
+Sony NP9660 -GEEN UMD-
+ME driver -GEEN UMD-
+Gebruik USB
+Configuratie
+Voer Programma's uit vanaf
+Geavanceerd
+CPU snelheid
+Plugins
+Register hacks
+Geavanceerde Configuratie
+Batterij Configuratie
+Formatteer flash1 en herstel standaard instellingen
+Formatteer flash2
+Batterij Serial
+Maak Jigkick Batterij
+Maak AutoBoot Batterij
+Maak Normale Batterij
+Afsluiten
+Terug
+USB Ingeschakeld
+USB Uitgeschakeld
+Wis
+Momenteel
+Voer OPNSSMP.BIN in ISO uit
+XMB  plugins
+GAME plugins
+POPS plugins
+Sla het Sony logo over
+Sla de gameboot over
+Verberg "beschadigde data"
+Protect Flash in Usb Mount
+Speel program af van
+UMD Mode
+Verberg Mac Address
+Namaak Regio
+Gebruik VshMenu
+XMB USB apparaat
+Laad de batterij als USB-kabel is aangesloten
+Gebruik meer kleur in XMB
+Gebruik ME netwerk update
+Verberg PIC0.PNG en PIC1.PNG in game menu
+Gebruik version.txt
+Versnel MS toegang
+UMD Disc
+Memory Stick
+Snelheid in XMB
+Snelheid in UMD/ISO
+Knop toewijzen
+Activeer WMA
+Activeer Flash Player
+O is enter
+X is enter
+WMA is al geactiveerd.
+WMA aan het activeren...
+Flash player is al geactiveerd.
+Flash Player aan het activeren...
+Verlaat recovery
+Hoofdmenu
+1.50 Kernel
+6.XX Kernel
+Altijd
+Nooit
+Onbekend
+Even geduld a.u.b.
+Gelukt
+Mislukt
+Opslaan
+Gebruik UmdVideo Patch in XMB
+Voer PBOOT.PBP met ISO uit

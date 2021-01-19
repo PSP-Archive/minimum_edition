@@ -1,0 +1,49 @@
+PSP_BEGIN_EXPORTS
+
+PSP_EXPORT_START(sceVshBridge, 0x0011, 0x4001)
+PSP_EXPORT_FUNC_HASH(vshChkregGetPsCode)
+PSP_EXPORT_FUNC_HASH(vshCtrlReadBufferPositive)
+PSP_EXPORT_FUNC_HASH(vshIoDevctl)
+PSP_EXPORT_FUNC_HASH(vshIdStorageLookup)
+PSP_EXPORT_FUNC_HASH(vshLflashFatfmtStartFatfmt)
+PSP_EXPORT_FUNC_HASH(vshKernelLoadModuleVSH)
+PSP_EXPORT_FUNC_HASH(vshKernelLoadModuleVSHByID)
+PSP_EXPORT_FUNC_HASH(vshKernelLoadModuleBufferVSH)
+PSP_EXPORT_FUNC_HASH(vshChkregCheckRegion)
+PSP_EXPORT_FUNC_HASH(vshPowerSetWakeupCondition)
+PSP_EXPORT_FUNC_HASH(vshImposeGetStatus)
+PSP_EXPORT_FUNC_HASH(vshImposeSetStatus)
+PSP_EXPORT_FUNC_HASH(vshImposeGetParam)
+PSP_EXPORT_FUNC_HASH(vshImposeSetParam)
+PSP_EXPORT_FUNC_HASH(vshImposeChanges)
+PSP_EXPORT_FUNC_HASH(vshMSAudioInit)
+PSP_EXPORT_FUNC_HASH(vshMSAudioEnd)
+PSP_EXPORT_FUNC_HASH(vshMSAudioAuth)
+PSP_EXPORT_FUNC_HASH(vshMSAudioCheckICV)
+PSP_EXPORT_FUNC_HASH(vshMSAudioCheckICVn)
+PSP_EXPORT_FUNC_HASH(vshMSAudioDeauth)
+PSP_EXPORT_END
+
+PSP_END_EXPORTS
+
+#0x61001D64 [0x000000F0] - vshChkregGetPsCode
+#0xC6395C03 [0x00000200] - vshCtrlReadBufferPositive
+#0x2380DC08 [0x000005CC] - vshIoDevctl
+#0x4DB43867 [0x00000788] - vshIdStorageLookup
+#0x74DA9D25 [0x00000CF4] - vshLflashFatfmtStartFatfmt
+#0xA5628F0D [0x0000154C] - vshKernelLoadModuleVSH
+#0x41C54ADF [0x000015B4] - vshKernelLoadModuleVSHByID
+#0xC9626587 [0x0000161C] - vshKernelLoadModuleBufferVSH
+#0x5C2983C2 [0x000016DC] - vshChkregCheckRegion
+#0xC949966C [0x00001790] - vshPowerSetWakeupCondition
+#0xCA719C34 [0x00001D00] - vshImposeGetStatus
+#0x4E4E4DA3 [0x00001D4C] - vshImposeSetStatus
+#0x639C3CB3 [0x00001DA4] - vshImposeGetParam
+#0x4A596D2D [0x00001DFC] - vshImposeSetParam
+#0x5894C339 [0x00001F14] - vshImposeChanges
+#0xCE32CBEF [0x000022D8] - vshMSAudioInit
+#0xE5DA5E95 [0x00002318] - vshMSAudioEnd
+#0x6CAEB765 [0x000023F0] - vshMSAudioAuth
+#0x53BFD101 [0x00002438] - vshMSAudioCheckICV
+#0xE174218C [0x00002480] - vshMSAudioCheckICVn
+#0x7EA32357 [0x000024E8] - vshMSAudioDeauth

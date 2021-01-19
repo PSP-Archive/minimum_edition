@@ -1,0 +1,29 @@
+Nascosto
+Visibile
+Normale
+Nessuna
+Indietro
+Disco UMD
+Memory Stick
+Memoria Nascosta
+Normale
+OE isofs
+M33 driver
+Sony NP9660
+ME driver
+CPU XMB          
+CPU GIOCO        
+CONNETTI A USB   
+ISO DRIVER       
+MONTA ISO VIDEO UMD
+COLORE SFONDO   
+XMB  PLUGINS    
+GAME PLUGINS    
+POPS PLUGINS    
+GESTIONE PLUGINS
+RECOVERY MENU
+SPEGNI PSP
+SOSPENDI PSP
+RESETTA PSP
+RESETTA XMB
+ESCI

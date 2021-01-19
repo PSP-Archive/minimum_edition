@@ -1,0 +1,125 @@
+PRXTool v1.1 : (c) TyRaNiD 2k6
+Built: Oct 24 2007 20:17:36
+Loaded PRX dax9660.prx successfully
+Module information
+
+Name:    pspMarch33_Driver
+Attrib:  1006
+Version: 1.0
+GP:      0000A450
+
+Exports:
+Export 0, Name syslib, Functions 2, Variables 2, flags 80000000
+Functions:
+0xD632ACDB [0x00000000] - module_start
+0xCEE8593C [0x0000006C] - module_stop
+Variables:
+0xF01D73A7 [0x00001EA0] - module_info
+0x11B97506 [0x000023CC] - syslib_11B97506
+Export 1, Name sceUmd, Functions 18, Variables 0, flags 00010011
+Functions:
+0x7E185F98 [0x000018A4] - sceUmd_7E185F98
+0x47B447E5 [0x0000169C] - sceUmd_47B447E5
+0x8213F674 [0x000014C4] - sceUmd_8213F674
+0xFAAA2DC6 [0x00001890] - sceUmd_FAAA2DC6
+0xF0E95430 [0x00001888] - sceUmd_F0E95430
+0x24E838BA [0x00001578] - sceUmd_24E838BA
+0x749B5538 [0x000014CC] - sceUmd_749B5538
+0xB1E889EB [0x00001504] - sceUmd_B1E889EB
+0x8EF08FCE [0x00001898] - sceUmdWaitDriveStat
+0x3F826E9B [0x000014D8] - sceUmd_3F826E9B
+0x58708431 [0x00001A38] - sceUmd_58708431
+0x6E350FE4 [0x00001990] - sceUmd_6E350FE4
+0xC6183D47 [0x00001B38] - sceUmdActivate
+0xE34F613F [0x0000150C] - sceUmd_E34F613F
+0x7E45DF26 [0x000014E4] - sceUmd_7E45DF26
+0xE83742BA [0x00001AD4] - sceUmdDeactivate
+0x507AB2B8 [0x000014F0] - sceUmd_507AB2B8
+0x145DBD8C [0x00001704] - sceUmd_145DBD8C
+Export 2, Name sceUmdUser, Functions 14, Variables 0, flags 40010011
+Functions:
+0x20628E6F [0x00001664] - sceUmdGetErrorStat
+0x340B7686 [0x0000169C] - sceUmdGetDiscInfo(old)
+0x46EBB729 [0x000014C4] - sceUmdCheckMedium
+0x4A9E5E29 [0x00001890] - sceUmdWaitDriveStatCB(old)
+0x56202973 [0x00001888] - sceUmdWaitDriveStatWithTimer(old)
+0x6AF9B50A [0x00001704] - sceUmdCancelWaitDriveStat(old)
+0x6B4A146C [0x0000162C] - sceUmdGetDriveStat
+0x87533940 [0x00001504] - sceUmdReplaceProhibit(old)
+0x8EF08FCE [0x00001898] - sceUmdWaitDriveStat
+0xAEE7404D [0x00001A38] - sceUmdRegisterUMDCallBack(old)
+0xBD2BDE07 [0x00001990] - sceUmdUnRegisterUMDCallBack
+0xC6183D47 [0x00001B38] - sceUmdActivate
+0xCBE9F02A [0x0000150C] - sceUmdReplacePermit(old)
+0xE83742BA [0x00001AD4] - sceUmdDeactivate
+Export 3, Name sceUmdMan_driver, Functions 5, Variables 0, flags 00010011
+Functions:
+0xE52119E7 [0x00001390] - sceUmdMan_driver_E52119E7
+0x7AD43944 [0x00001398] - sceUmdMan_driver_7AD43944
+0x42D993AC [0x000013D8] - sceUmdMan_driver_42D993AC
+0x26C75616 [0x000013E8] - sceUmdMan_driver_26C75616
+0x454E1B06 [0x00001388] - sceUmdMan_driver_454E1B06
+Export 4, Name sceUmd9660_driver, Functions 3, Variables 0, flags 00010011
+Functions:
+0x385336B5 [0x00000054] - sceUmd9660_driver_385336B5
+0x1D89BD8F [0x0000005C] - sceUmd9660_driver_1D89BD8F
+0x94ACF219 [0x00000064] - sceUmd9660_driver_94ACF219
+
+Imports:
+Import 0, Name SysMemForKernel, Functions 3, Variables 0, flags 00010011
+Functions:
+0xC7E57B9C [0x00001C54] - sceKernelSetQTGP3(old)
+0xCF4DE78C [0x00001C5C] - sceKernelGetUIDcontrolBlock(old)
+0xFC114573 [0x00001C64] - sceKernelGetCompiledSdkVersion(old)
+Import 1, Name SystemCtrlForKernel, Functions 3, Variables 0, flags 00090000
+Functions:
+0xAC56B90B [0x00001C6C] - sctrlSEGetUmdFile
+0xF9584CAD [0x00001C74] - sctrlKernelMalloc
+0xA65E8BC4 [0x00001C7C] - sctrlKernelFree
+Import 2, Name KDebugForKernel, Functions 1, Variables 0, flags 00010000
+Functions:
+0x84F370BC [0x00001C84] - Kprintf
+Import 3, Name LoadCoreForKernel, Functions 2, Variables 0, flags 00010000
+Functions:
+0xD8779AC6 [0x00001C8C] - sceKernelIcacheClearAll
+0xCF8A41B1 [0x00001C94] - sceKernelFindModuleByName(old)
+Import 4, Name IoFileMgrForKernel, Functions 10, Variables 0, flags 00010000
+Functions:
+0x810C4BC3 [0x00001C9C] - sceIoClose
+0x109F50BC [0x00001CA4] - sceIoOpen
+0x6A638D83 [0x00001CAC] - sceIoRead
+0x27EB27B8 [0x00001CB4] - sceIoLseek
+0x68963324 [0x00001CBC] - sceIoLseek32
+0x54F5FB11 [0x00001CC4] - sceIoDevctl
+0xB2A628C1 [0x00001CCC] - sceIoAssign
+0x6D08A871 [0x00001CD4] - sceIoUnassign
+0x8E982A74 [0x00001CDC] - sceIoAddDrv
+0xC7F35804 [0x00001CE4] - sceIoDelDrv
+Import 5, Name UtilsForKernel, Functions 2, Variables 0, flags 00090000
+Functions:
+0x79D1C3FA [0x00001CEC] - sceKernelDcacheWritebackAll
+0xE8DB3CE6 [0x00001CF4] - sceKernelDeflateDecompress
+Import 6, Name InterruptManagerForKernel, Functions 2, Variables 0, flags 00010000
+Functions:
+0x092968F4 [0x00001CFC] - sceKernelCpuSuspendIntr
+0x5F10D406 [0x00001D04] - sceKernelCpuResumeIntr
+Import 7, Name ThreadManForKernel, Functions 11, Variables 0, flags 00010000
+Functions:
+0xC11BA8C4 [0x00001D0C] - sceKernelNotifyCallback
+0x349D6D6C [0x00001D14] - sceKernelCheckCallback
+0xCEADEB47 [0x00001D1C] - sceKernelDelayThread
+0xD6DA4BA1 [0x00001D24] - sceKernelCreateSema
+0x28B6489C [0x00001D2C] - sceKernelDeleteSema
+0x3F53E640 [0x00001D34] - sceKernelSignalSema
+0x4E3A1105 [0x00001D3C] - sceKernelWaitSema
+0x6D212BAC [0x00001D44] - sceKernelWaitSemaCB
+0x8FFDF9A2 [0x00001D4C] - sceKernelCancelSema
+0xBC31C1B9 [0x00001D54] - sceKernelExtendKernelStack
+0x57CF62DD [0x00001D5C] - sceKernelGetThreadmanIdType
+Import 8, Name SysclibForKernel, Functions 4, Variables 0, flags 00010000
+Functions:
+0xC0AB8932 [0x00001D64] - strcmp
+0xAB7592FF [0x00001D6C] - memcpy
+0x10F3BB61 [0x00001D74] - memset
+0x81D0D1F7 [0x00001D7C] - memcmp
+Done

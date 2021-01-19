@@ -1,0 +1,92 @@
+Desactivado
+Activado
+Por defecto
+Japon
+America
+Europa
+Corea
+Reino Unido
+Mexico
+Australia/Nueva Zelanda
+Este
+Taiwan
+Rusia
+China
+Debug Tipo I
+Debug Tipo II
+Normal -UMD requerido-
+OE isofs legacy
+M33 driver
+Sony NP9660
+ME driver
+Activar USB
+Configuracion
+Ejecutar el programa en
+Avanzado
+Velocidad CPU
+Plugins
+Hacks del registro
+Configuracion avanzada
+Configuracion de bateria
+Formatear flash1 y reiniciar los ajustes
+Formatear flash2 y reiniciar los ajustes de PSN
+Serial de la bateria
+Crear bateria Pandora
+Crear bateria de autoarranque
+Crear bateria normal
+Salir
+Atras
+USB activado
+USB desactivado
+Formateando...
+Ahora
+Ejecutar OPNSSMP
+Plugins VSH
+Plugins GAME
+Plugins POPS
+Saltar coldboot
+Saltar gameboot
+Ocultar iconos corruptos
+Kernel para homebrew
+Autoejecutar programa en                                           
+Modo UMD
+ocultar la direccion MAC
+Cambiar la region
+Usar menu VSH
+Dispositivo USB en XMB
+Cargar la bateria cuando el cable                                   USB esta conectado
+Usar los colores de Slim en el XMB
+Utilizar la actualizacion                                           de red de ME
+Ocultar PIC0 y PIC1 en el XMB
+Usar version.txt
+Aceleracion de lectura de                                           Memory Stick
+Disco UMD
+Memory Stick
+Velocidad en XMB
+Velocidad en UMD/ISO
+Asignacion de botones
+Activar WMA
+Activar Flash Player
+O para aceptar
+X para aceptar
+El WMA ya habia sido activado
+Activando WMA...
+El Flash Player ya habia sido activado
+Activando Flash Player...
+Saliendo del Recovery
+Menu principal - Traduccion por largeroliker v4
+Kernel 1.50
+Kernel 6.XX
+Siempre
+Nunca 
+Desconocido
+Por favor, espere...
+Hecho
+Fallo
+Guardando
+Usar el parche para UMD Video en el XMB
+Ejecutar PBOOT con ISO
+Cambiando
+Hacer copia de la configuracion de red
+Restaurar copia de la configuracion de red
+Almacenamiento oculto

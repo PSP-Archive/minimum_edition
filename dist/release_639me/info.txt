@@ -1,0 +1,26 @@
+--- Feature ---
+- Support Unsigned Homebrew.
+- Support Extra module ( = plugins ).
+- Support ISO mount with M33driver , NP9660driver , OEdriver , NormalDriver and MEdriver.
+- Support UMD video.
+- Support converted PSX(PS1) game and custom DOCUMENT.DAT.
+- Unlock max display brightness level without AC adapter.
+- Unlock ExtraMemory for Homebrew ( slim only ).
+- Unlock Slim color in XMB.(need to prepare bmp file )
+- Support USB battery charging.
+- Support CPU speed control.
+- Support hide PIC0.PNG and PIC1.PNG option.
+- Support Flash0/1/2/3/UMD mount with USB.
+- Support fake region.
+- Support Battery EEPROM option in recovery menu.
+- Support to load Unsignated module.
+- Support to load packed ( with Dark_AleX's psp-packer ) module.
+
+--- VshMenu ---
+Press SELECT to display VshMenu in XMB.
+This menu won't displayed while useing Browser, Skype, Camera, Remoreplay, 1seg and PsnStore.
+Press L + R + SEECT to force open VshMenu.
+
+New:
+If you are displaying VshMenu, press L + R + START to enter edit mode.
+You can customize VshMenu :)

@@ -1,0 +1,4 @@
+glob:*.prx
+glob:*.bat
+glob:*_bin.h
+glob:*.o
